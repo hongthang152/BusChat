@@ -1,0 +1,2 @@
+class DirectionQuery < ApplicationRecord
+end
